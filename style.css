@@ -79,17 +79,6 @@ body {
   z-index: 20;
 }
 
-/*#e9f207*/
-
-.pages {
-  position: absolute;
-  width: 100vw;
-  height: 100%;
-  background-color: #fff;
-  text-align: center;
-  font-size: 30px;
-}
-
 
 
 
